@@ -1,0 +1,9 @@
+{
+  "appId": "14296900",
+  "appKey": "PMtKEQ31A2gU4YTM52CrGIfD",
+  "appSecret": "eGaS3lMPNXfkk2pp0vSIgRkkoR677Sz",
+  "asrDir": "./dir",
+  "resultDir": "./result",
+  "resultFile": "./result.csv",
+  "process": 30
+}
